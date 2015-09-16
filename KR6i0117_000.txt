@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 寶授菩薩菩提行經
+#+DATE: 2015-08-30 20:10:14.505141
+#+PROPERTY: JUAN 0
